@@ -1,0 +1,23 @@
+{
+  "name": "rodrigo-lima-test-package",
+  "version": "1.1.0",
+  "description": "npm install @rodrigolima26/test-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoLima26/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoLima26/test-package/issues"
+  },
+  "homepage": "https://github.com/RodrigoLima26/test-package#readme",
+  "dependencies": {
+    "@ionic-native/app-version": "^4.20.0",
+    "moment": "^2.29.1"
+  }
+}
